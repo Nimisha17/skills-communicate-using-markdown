@@ -6,4 +6,7 @@ adding an image below of yaktocat!!!
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-edit here
+edit the code here
+``` javascript
+var myVar = "Hello, world!";
+```
