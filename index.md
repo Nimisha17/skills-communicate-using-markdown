@@ -10,4 +10,7 @@ edit the code here
 ``` javascript
 var myVar = "Hello, world!";
 ```
-add it here : 
+add the checklist below:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
